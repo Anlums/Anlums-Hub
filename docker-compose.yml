@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  hub:
+    build: .
+    container_name: anlums-hub
+    ports:
+      - "3002:80"
+    restart: unless-stopped
