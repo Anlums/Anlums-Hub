@@ -181,7 +181,7 @@ function App() {
           {/* 导航卡片 */}
           <section className="w-full grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10 stagger-enter">
             <a
-              href="http://8.140.222.17:3001"
+              href="http://8.140.222.17:3000"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative rounded-xl p-6 text-center transition-all duration-300 hover:-translate-y-1 neon-border"
@@ -198,12 +198,12 @@ function App() {
                 记录技术思考、项目心得与前沿探索
               </p>
               <span className="font-mono text-xs text-[#22d3ee] opacity-60 group-hover:opacity-100 transition-opacity">
-                8.140.222.17:3001 →
+                8.140.222.17:3000 →
               </span>
             </a>
 
             <a
-              href="http://8.140.222.17:3002"
+              href="http://8.140.222.17:3001"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative rounded-xl p-6 text-center transition-all duration-300 hover:-translate-y-1 neon-border"
@@ -220,7 +220,7 @@ function App() {
                 AI 驱动的酒店管理系统 · Agent 智能对话
               </p>
               <span className="font-mono text-xs text-[#22d3ee] opacity-60 group-hover:opacity-100 transition-opacity">
-                8.140.222.17:3002 →
+                8.140.222.17:3001 →
               </span>
             </a>
           </section>
